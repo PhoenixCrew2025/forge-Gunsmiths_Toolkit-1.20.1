@@ -1,62 +1,15 @@
 {
-  "item.easycreate.ecreate_corrupted_iron_ingot": "Corrupted Iron Ingot",
-  "item.easycreate.create_nether_star": "Corrupted Nether Star",
-  "item.easycreate.ecreate_shard": "Corrupted Shard",
-  "item.easycreate.ecreate_rod": "Corrupted Blaze Rod",
-  "item.easycreate.heart_of_ecreate": "Corrupted Heart of the Sea",
-  "item.easycreate.ecreate_quarts": "Corrupted Nether Quarts",
-  "item.easycreate.ecreate_corrupted_raw_iron": "Corrupted Raw Iron",
-  "item.easycreate.ecreate_corrupted_raw_gold": "Corrupted Raw Gold",
-  "item.easycreate.ecreate_corrupted_gold": "Corrupted Gold",
-  "item.easycreate.ecreate_corrupted_raw_diamond": "Corrupted Raw Diamond",
-  "item.easycreate.ecreate_corrupted_diamond": "Corrupted Diamond",
-  "item.easycreate.ecreate_corrupted_raw_emerald": "Corrupted Raw Emerald",
-  "item.easycreate.ecreate_corrupted_emerald": "Corrupted Emerald",
-  "item.easycreate.ecreate_corrupted_coal": "Corrupted Coal",
+  "item.gunsmithstoolkit.pistol_schem_tier_five": "Pistol Schematic Tier 5",
+  "item.gunsmithstoolkit.pistol_schem_tier_four": "Pistol Schematic Tier 4",
+  "item.gunsmithstoolkit.pistol_schem_tier_three": "Pistol Schematic Tier 3",
+  "item.gunsmithstoolkit.pistol_schem_tier_two": "Pistol Schematic Tier 2",
+  "item.gunsmithstoolkit.pistol_schem_tier_one": "Pistol Schematic Tier 1",
 
-  "item.easycreate.ecreate_helmet": "Ecreate King Helmet",
-  "item.easycreate.ecreate_chestplate": "Ecreate King Chestplate",
-  "item.easycreate.ecreate_leggings": "Ecreate King Leggings",
-  "item.easycreate.ecreate_boots": "Ecreate King Boots",
+  "item.gunsmithstoolkit.smg_schem_tier_five": "SMG Schematic Tier 5",
+  "item.gunsmithstoolkit.smg_schem_tier_four": "SMG Schematic Tier 4",
+  "item.gunsmithstoolkit.smg_schem_tier_three": "SMG Schematic Tier 3",
+  "item.gunsmithstoolkit.smg_schem_tier_two": "SMG Schematic Tier 2",
+  "item.gunsmithstoolkit.smg_schem_tier_one": "SMG Schematic Tier 1",
 
-  "item.easycreate.ecreate_sword": "Ecreate King Sword",
-  "item.easycreate.ecreate_pickaxe": "Ecreate King Pickaxe",
-  "item.easycreate.ecreate_axe": "Ecreate King Axe",
-  "item.easycreate.ecreate_shovel": "Ecreate King Shovel",
-  "item.easycreate.ecreate_hoe": "Ecreate King Hoe",
-
-  "item.easycreate.ecreate_seeds": "Ecreate Seeds",
-  "item.easycreate.ecreate_essence": "Ecreate Essence",
-
-  "item.easycreate.blood_god_part": "Blood Magic God Part",
-  "item.easycreate.create_god_part": "Create's God Part",
-  "item.easycreate.ecreate_crystal": "Ecreate Crystal",
-  "item.easycreate.food_god_part": "All Foods God Part",
-  "item.easycreate.god_main_part": "Final God Part",
-  "item.easycreate.mek_god_part": "Mekanism God Part",
-  "item.easycreate.modium_god_part": "Allthemodium God Part",
-  "item.easycreate.ore_god_part": "All Ores God Part",
-
-  "block.easycreate.ecreate_corrupted_iron_block": "Corrupted Iron Block",
-  "block.easycreate.ecreate_corrupted_iron_ore": "Corrupted Iron Ore",
-  "block.easycreate.ecreate_corrupted_gold_ore": "Corrupted Gold Ore",
-  "block.easycreate.ecreate_corrupted_diamond_ore": "Corrupted Diamond Ore",
-  "block.easycreate.ecreate_corrupted_emerald_ore": "Corrupted Emerald Ore",
-  "block.easycreate.ecreate_corrupted_coal_ore": "Corrupted Coal Ore",
-
-  "tooltip.easycreate.ecreate_corrupted_coal_ore": "§eYou can find this Ore in the §nDesert§r§e Biome",
-  "tooltip.easycreate.ecreate_corrupted_iron_ore": "§eYou can find this Ore in the §nJungle§r§e Biome",
-  "tooltip.easycreate.ecreate_corrupted_gold_ore": "§eYou can Find this Ore in the §nBadlands§r§e Biome",
-  "tooltip.easycreate.ecreate_corrupted_diamond_ore": "§eYou can find this Ore in the §nSnowy Taiga§r§e Biome",
-  "tooltip.easycreate.ecreate_corrupted_emerald_ore": "§eYou can find this Ore in the §nDark Forest§r§e Biome",
-
-  "item.easycreate.atm_alloy_smithing_template": "AllTheModium Alloy Smithing Template",
-
-  "item.easycreate.demons_song_music_disc": "Ain't no rest for the wicked Song",
-  "item.easycreate.demons_song_music_disc.desc": "Cage the Elephant - Ain't no rest for the wicked",
-
-  "creativetab.easycreate.easy_create_items_tab": "ECreate Items Tab",
-  "creativetab.easycreate.easy_create_blocks_tab": "ECreate Blocks Tab",
-  "creativetab.easycreate.easy_create_at_tab": "ECreate Armor/Tools Tab",
-  "creativetab.easycreate.easy_create_god_parts_tab": "ECreate God Parts"
+  "creativetab.schem_tab": "Gun Schematics Tab"
 }

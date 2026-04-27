@@ -1,100 +1,112 @@
-# Easy Create - Core Mod
+# GunSmith's Toolkit
 
-Welcome to the **Easy Create Core Mod**, a powerful and essential addon built specifically for the *Easy Create Modpack*. This mod transforms the late-game experience of Create, adding endgame-tier gear, unique mobs, and custom 
-resources designed to give players a rewarding sense of progression.
+**GunSmith's Toolkit** is a Minecraft mod designed for **modpack developers** who want to create custom firearm progression systems without building every component from scratch.
 
+This project is currently being developed in collaboration with **OmniForge Studios**, with a focus on providing high-quality modular tools for custom weapon progression in Minecraft modpacks.
 
-## 🌟 About the Mod
+This mod adds:
 
-The **Easy Create Mod** is a **core mod** developed to enhance and expand the capabilities of the Create mod. It introduces:
+- **36 Schematics** for weapon crafting progression
+- **60+ Gun and Ammo Parts**
+- A wide variety of components intended for **custom recipes and integrations**
 
-- **Overpowered (OP) armor and tools**
-- **Custom ores, blocks, and items**
-- **Challenging and creative custom mobs**
-- Full compatibility and synergy with the Create ecosystem
+GunSmith's Toolkit is **not a standalone weapon mod**.  
+It does **not include default crafting recipes** for its items.
 
-Think of this as the **final tier** of your automation adventure — giving players meaningful, powerful goals beyond Create’s built-in mechanics.
+Instead, this mod provides the framework items needed for developers to:
 
+- Create their own firearm crafting systems
+- Design progression through schematics
+- Integrate custom recipes with tools like **KubeJS**, **CraftTweaker**, or datapacks
+- Build unique weapon manufacturing mechanics for their modpacks
 
-## 🔧 Purpose
+---
 
-This mod was built with two main goals in mind:
+## Features
 
-1. **Enhance the Easy Create Modpack:** Ensure that all custom features, recipes, and mechanics work seamlessly within the modpack.
-2. **Add True Endgame Progression:** Provide new high-tier gear and content that Create players can strive toward, including stronger weapons, faster tools, and protective armor that goes beyond what other mods offer.
+### Schematics System
+The mod introduces **36 schematic items** that can be used as progression gates for crafting weapons, ammo, or gun components.
 
-> 💡 *While tailored for the Easy Create Modpack, this mod can be used in other modpacks or worlds as long as the Create mod is installed.*
+These schematics allow modpack creators to design structured crafting paths such as:
 
+- Unlocking weapon tiers
+- Gating advanced ammunition
+- Requiring blueprint progression for firearms
 
-## 🧩 Features
+---
 
-Here’s a breakdown of what’s included:
+### Gun & Ammo Components
+GunSmith's Toolkit adds **60+ crafting parts**, including materials for:
 
-- ⚔️ **OP Weapons & Tools**  
-  Crafted using rare resources and Create-based processes, these tools and weapons are stronger than most gear in other mods.
+- Weapon assemblies
+- Ammunition components
+- Internal gun mechanisms
+- Specialized crafting ingredients
 
-- 🛡️ **Powerful Armor Sets**  
-  Gain enhanced protection, movement boosts, and other special effects with custom armor designed for the late-game.
+These parts are recipe-ready and intended for **developer customization**.
 
-- ⛏️ **New Ores & Blocks**  
-  Discover and process new ore types needed to craft the best equipment available in the mod.
+---
 
-- 🧪 **Custom Items**  
-  New components, materials, and curiosities to deepen the crafting system.
+## Developed with OmniForge Studios
 
-- 👾 **Unique Mobs**  
-  Custom enemies that drop valuable materials or serve as obstacles on your journey through the world of Easy Create.
+GunSmith's Toolkit is proudly being developed alongside **OmniForge Studios**, combining modular design with developer-focused flexibility.
 
-- 🔁 **Tight Integration with Create**  
-  Recipes and progression are built around Create’s mechanics, encouraging creativity and innovation.
+The goal of this project is to provide modpack creators with the freedom to build their own firearm crafting and progression systems while maintaining compatibility with modern Minecraft modding tools.
 
+---
 
-## 🧱 Requirements
+## Designed for Modpack Developers
 
-- **[Create Mod](https://www.curseforge.com/minecraft/mc-mods/create)** – Required for this mod to function.
-- **Minecraft Forge** – Version compatible with 1.20.1 Forge.
-- Java 17+
+GunSmith's Toolkit is built to be used alongside:
 
+- **KubeJS**
+- **CraftTweaker**
+- **Datapacks**
+- **Custom progression systems**
 
-## 📦 Installation
+This allows full control over:
 
-1. Download the mod `.jar` file from the [Releases](./releases) section.
-2. Place the file in your Minecraft `mods` folder.
-3. Ensure you have the Create mod installed.
-4. Launch Minecraft using the correct Forge profile.
+- Crafting recipes
+- Progression balance
+- Integration with other weapon mods
+- Quest and unlock systems
 
+You decide how every schematic and component is used.
 
-## 📌 Notes
+---
 
-- This mod is **not meant to be used alone**. It’s designed as a **core component of the Easy Create Modpack**.
-- Use outside the Easy Create Modpack is possible but **not officially supported** — behavior may vary without proper configuration.
-- This mod is **in active development** and may receive frequent updates as new features are added or balanced.
+## Important Notes
 
+- **No default recipes are included**
+- **No weapons are added by default**
+- This mod exists purely to provide **items and schematics** for pack developers
 
-## 🚧 Development
+If you are looking for ready-made guns, this mod is not intended for direct gameplay use.
 
-Planned features for future releases include:
+---
 
-- Boss Mobs and rare drops  
-- Additional armor upgrade paths  
-- Custom structures and loot tables  
-- Balance tweaks based on player feedback
-- Custom Armor, Armor Effects, and Tools/Weapons
+## License
 
-Contributions and ideas are welcome! Feel free to open issues or submit pull requests.
+**All Rights Reserved**
 
+You may use this mod in personal or public modpacks, but:
 
-## 💬 Contact & Support
+- You may **not redistribute** the mod files
+- You may **not modify and republish** the mod
+- You may **not reuse assets or code** without explicit permission
 
-For feedback, bug reports, or general discussion, join the official community on Discord:
+For permissions beyond normal modpack use, please contact the author.
 
-👉 [Easy Create Offical Discord Server](https://discord.gg/c7Pxg8wEpC)
+---
 
+## Summary
 
-## 📄 License
+GunSmith's Toolkit gives modpack developers the building blocks to create their own firearm crafting ecosystem:
 
-This mod is provided under the **All Rights Reserved License**.
+- **36 Schematics**
+- **60+ Gun/Ammo Parts**
+- **No preset recipes**
+- Developed with **OmniForge Studios**
+- **Full developer customization**
 
-
-**Thank you for checking out Easy Create!**  
-Get ready to power up your Create experience and automate your way to domination.
+Build your own gunsmithing progression your way.
